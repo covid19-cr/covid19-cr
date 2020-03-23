@@ -1,7 +1,7 @@
 # Datos de los casos de COVID-19 en Costa Rica
 
 ## Nacionales
-**Archivo con los datos actuales**
+**Archivo con los datos actuales**  
 Se genera al guardar la última línea de la hoja en Google Sheets. Debe usarse para actualizar la capa alojada en ArcGIS Online.
 ```
 cr-covid19-pais-actual.csv
