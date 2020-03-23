@@ -30,8 +30,8 @@ Solamente se mantiene en ArcGIS Online, como una capa alojada. Se originó al su
 **Archivos históricos diarios**
 Se generan al guardar la capa de datos actuales alojada en ArcGIS Online, antes de actualizarla manualmente con los datos del Ministerio de Salud.
 ```
-cr-covid19-pais-20200322-1353.csv
-cr-covid19-pais-20200321-1728.csv
+cr-covid19-cantones-20200322-1353.csv
+cr-covid19-cantones-20200321-1728.csv
 ...
 ```
 
