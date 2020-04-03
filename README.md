@@ -5,18 +5,20 @@ Para una visualización geoespacial de estos datos, puede usarse este [tablero d
 
 ## Datos a nivel de país
 **Datos acumulados (1 registro por día)**  
+[datos/pais/acumulados](https://github.com/covid19-cr/covid19-cr/tree/master/datos/pais/acumulados)
 ```
 cr-covid19-pais-acumulados.csv
 ```
-[datos/pais/acumulados](https://github.com/covid19-cr/covid19-cr/tree/master/datos/pais/acumulados)
 
 ## Datos a nivel de cantón
 **Datos actuales (1 registro por cantón)**  
+[datos/cantones/actuales](https://github.com/covid19-cr/covid19-cr/tree/master/datos/cantones/actuales)
 ```
 cr-covid19-cantones-actuales.geojson
 ```
 
-**Datos históricos (1 registro por cantón, correspondiente a un día)**
+**Datos históricos (1 registro por cantón, correspondiente a un día)**  
+[datos/cantones/historicos](https://github.com/covid19-cr/covid19-cr/tree/master/datos/cantones/historicos)
 ```
 cr-covid19-cantones-20200322-1353.geojson
 cr-covid19-cantones-20200321-1728.geojson
@@ -26,6 +28,7 @@ cr-covid19-cantones-20200321-1728.geojson
 
 **Datos acumulados (1 registro por cantón por día [i.e. por cada día hay 82 registros])**  
 Se genera al realizar la unión de los datos (sin las geometrías) de todos los archivos históricos diarios.
+[datos/cantones/acumulados](https://github.com/covid19-cr/covid19-cr/tree/master/datos/cantones/acumulados)
 ```
 cr-covid19-cantones-acumulados.csv
 ```
