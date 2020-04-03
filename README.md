@@ -1,5 +1,5 @@
 # Datos de los casos de COVID-19 en Costa Rica
-Este repositorio contiene datos de los casos de la pandemia de [COVID-19](https://es.wikipedia.org/wiki/COVID-19) reportados en Costa Rica. Estos datos han sido recopilados a partir de la [información brindada diariamente por el Ministerio de Salud]().
+Este repositorio contiene datos de los casos de la pandemia de [COVID-19](https://es.wikipedia.org/wiki/COVID-19) reportados en Costa Rica. Han sido recopilados a partir de la [información brindada diariamente por el Ministerio de Salud]().
 
 Se mantienen datos a nivel de país y a nivel de cantón.
 
