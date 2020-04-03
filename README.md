@@ -17,7 +17,7 @@ cr-covid19-pais-acumulados.csv
 cr-covid19-cantones-actuales.geojson
 ```
 
-**Datos históricos (1 registro por cantón, correspondiente a un día)**  
+**Datos históricos (1 registro por cantón, por día)**  
 [datos/cantones/historicos](https://github.com/covid19-cr/covid19-cr/tree/master/datos/cantones/historicos)
 ```
 cr-covid19-cantones-20200322-1353.geojson
