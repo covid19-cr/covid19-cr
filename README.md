@@ -13,7 +13,7 @@ cr-covid19-pais-acumulado.csv
 cr-covid19-cantones-actual.geojson
 ```
 
-**Archivos históricos diarios**
+**Datos históricos diarios**
 ```
 cr-covid19-cantones-20200322-1353.geojson
 cr-covid19-cantones-20200321-1728.geojson
@@ -21,8 +21,8 @@ cr-covid19-cantones-20200321-1728.geojson
 ...
 ```
 
-**Archivo acumulado (1 registro por cantón por día [i.e. por cada día hay 82 registros])**  
-Se genera al realizar la unión de los datos (¿sin las geometrías?) de todos los archivos históricos diarios.
+**Datos acumulados (1 registro por cantón por día [i.e. por cada día hay 82 registros])**  
+Se genera al realizar la unión de los datos (sin las geometrías) de todos los archivos históricos diarios.
 ```
 cr-covid19-cantones-acumulado.csv
 ```
