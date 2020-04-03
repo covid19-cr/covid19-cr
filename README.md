@@ -28,7 +28,7 @@ cr-covid19-cantones-20200321-1728.geojson
 
 **Datos acumulados (1 registro por cantón por día [i.e. por cada día hay 82 registros])**  
 Se genera al realizar la unión de los datos (sin las geometrías) de todos los archivos históricos diarios.
-[datos/cantones/acumulados](https://github.com/covid19-cr/covid19-cr/tree/master/datos/cantones/acumulados)
+[datos/cantones/acumulados](https://github.com/covid19-cr/covid19-cr/tree/master/datos/cantones/acumulados)  
 ```
 cr-covid19-cantones-acumulados.csv
 ```
