@@ -15,8 +15,8 @@ cr-covid19-cantones-actual.geojson
 
 **Archivos históricos diarios**
 ```
-cr-covid19-cantones-20200322-1353.csv
-cr-covid19-cantones-20200321-1728.csv
+cr-covid19-cantones-20200322-1353.geojson
+cr-covid19-cantones-20200321-1728.geojson
 ...
 ...
 ```
