@@ -1,7 +1,10 @@
 # Datos de los casos de COVID-19 en Costa Rica
 Este repositorio contiene datos de los casos de la pandemia de [COVID-19](https://es.wikipedia.org/wiki/COVID-19) reportados en Costa Rica. Han sido recopilados a partir de la [información brindada diariamente por el Ministerio de Salud](https://github.com/covid19-cr/covid19-cr/tree/master/prensa/comunicados-ministerio-salud). Se mantienen datos a nivel de país y a nivel de cantones.
 
-Para una visualización geoespacial de estos datos, puede consultarse este [tablero de control](https://arcg.is/1HKq9i).
+Para visualizar la distribución geográfica de COVI-19 en Costa Rica, puede consultar los siguientes tableros de control:
+
+- [Versión para escritorio](https://arcg.is/1uTiWT).
+- [Versión para móviles](https://arcg.is/1HKq9i).
 
 ## Datos a nivel de país
 **Datos acumulados (1 registro por día)**  
