@@ -3,8 +3,8 @@ Este repositorio contiene datos de los casos de la pandemia de [COVID-19](https:
 
 Para visualizar la distribución geográfica de COVI-19 en Costa Rica, puede consultar los siguientes tableros de control:
 
-- [Versión para escritorio](https://arcg.is/1uTiWT).
-- [Versión para móviles](https://arcg.is/1HKq9i).
+- [Versión para escritorio](https://arcg.is/1uTiWT)
+- [Versión para móviles](https://arcg.is/1HKq9i)
 
 ## Datos a nivel de país
 **Datos acumulados (1 registro por día)**  
