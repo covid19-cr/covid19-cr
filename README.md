@@ -12,7 +12,7 @@ $ git clone https://github.com/covid19-cr/covid19-cr.git
 ```
 
 ## Datos
-Los datos han sido recopilados a partir de la [información brindada diariamente por el Ministerio de Salud](https://github.com/covid19-cr/covid19-cr/tree/master/prensa/comunicados-ministerio-salud). Se mantienen datos a nivel de país y a nivel de cantones.
+Los datos han sido recopilados a partir de la [información brindada diariamente por el Ministerio de Salud de Costa Rica](https://github.com/covid19-cr/covid19-cr/tree/master/prensa/comunicados-ministerio-salud). Se mantienen datos a nivel de país y a nivel de cantones.
 
 ### Datos a nivel de país
 **Datos acumulados (1 registro por día)**  
