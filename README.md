@@ -63,11 +63,11 @@ $ ogr2ogr \
     WFS:"http://geos.snitcr.go.cr/be/IGN_5/wfs?" limitecantonal_5k
 ```    
 
-### Descarga de la imagen
+### Descarga de la imagen de SARS-CoV-2
 ```terminal
 $ wget https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SARS-CoV-2_without_background.png/512px-SARS-CoV-2_without_background.png
 $ cp 512px-SARS-CoV-2_without_background.png 512px-SARS-CoV-2-logo-github.png
 ```
 
 Metadatos y condiciones de uso de la imagen:  
-https://commons.wikimedia.org/wiki/File:SARS-CoV-2_without_background.png
+[https://commons.wikimedia.org/wiki/File:SARS-CoV-2_without_background.png](https://commons.wikimedia.org/wiki/File:SARS-CoV-2_without_background.png)
