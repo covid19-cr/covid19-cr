@@ -1,7 +1,7 @@
 # COVID-19 en Costa Rica
-Este repositorio contiene datos de los casos de la pandemia de [COVID-19](https://es.wikipedia.org/wiki/COVID-19) reportados en Costa Rica y un conjunto de comandos y programas para su procesamiento. Los datos han sido recopilados a partir de la [información brindada diariamente por el Ministerio de Salud](https://github.com/covid19-cr/covid19-cr/tree/master/prensa/comunicados-ministerio-salud). Se mantienen datos a nivel de país y a nivel de cantones.
+Este repositorio contiene datos de los casos de la pandemia de [COVID-19](https://es.wikipedia.org/wiki/COVID-19) reportados en Costa Rica y un conjunto de comandos y programas para su procesamiento.
 
-Para visualizar la distribución geográfica de COVI-19 en Costa Rica, con base en estos datos, puede consultar los siguientes tableros de control:
+Para visualizar la distribución geográfica de COVID-19 en Costa Rica, con base en estos datos, puede consultar los siguientes tableros de control:
 
 - [Versión para escritorio](https://arcg.is/1HKq9i)
 - [Versión para móviles](https://arcg.is/1uTiWT)
@@ -12,6 +12,7 @@ $ git clone https://github.com/covid19-cr/covid19-cr.git
 ```
 
 ## Datos
+Los datos han sido recopilados a partir de la [información brindada diariamente por el Ministerio de Salud](https://github.com/covid19-cr/covid19-cr/tree/master/prensa/comunicados-ministerio-salud). Se mantienen datos a nivel de país y a nivel de cantones.
 
 ### Datos a nivel de país
 **Datos acumulados (1 registro por día)**  
