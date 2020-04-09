@@ -52,3 +52,22 @@ $ conda create -n covid19 python=3
 $ conda activate covid19
 $ conda install -c conda-forge qgis
 ```
+
+### Descarga de la capa de cantones
+```
+$ ogr2ogr \
+    -f "GeoJSON" \
+    -t_srs EPSG:4326 \
+    -simplify 0.9 \
+    capa_cantones.geojson \
+    WFS:"http://geos.snitcr.go.cr/be/IGN_5/wfs?" limitecantonal_5k
+```    
+
+### Descarga de la imagen
+```terminal
+$ wget https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SARS-CoV-2_without_background.png/512px-SARS-CoV-2_without_background.png
+$ cp 512px-SARS-CoV-2_without_background.png 512px-SARS-CoV-2-logo-github.png
+```
+
+Metadatos y condiciones de uso de la imagen:  
+https://commons.wikimedia.org/wiki/File:SARS-CoV-2_without_background.png
