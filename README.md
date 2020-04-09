@@ -1,10 +1,10 @@
 # COVID-19 en Costa Rica
 Este repositorio contiene datos de los casos de la pandemia de [COVID-19](https://es.wikipedia.org/wiki/COVID-19) reportados en Costa Rica y un conjunto de comandos y programas para su procesamiento.
 
-Para visualizar la distribución geográfica de COVID-19 en Costa Rica, con base en estos datos, puede consultar los siguientes tableros de control:
+Para visualizar la distribución geográfica de COVID-19 en Costa Rica, con base en estos datos, puede utilizar los siguientes tableros de control:
 
-- [Versión para escritorio](https://arcg.is/1HKq9i)
-- [Versión para móviles](https://arcg.is/1uTiWT)
+- [Distribución geográfica de casos de COVID-19 en Costa Rica - Versión para escritorio](https://arcg.is/1HKq9i)
+- [Distribución geográfica de casos de COVID-19 en Costa Rica - Versión para móviles](https://arcg.is/1uTiWT)
 
 Para clonar este repositorio, ejecute el comando:
 ```terminal
@@ -45,3 +45,10 @@ cr-covid19-cantones-acumulados.csv
 ```
 
 ## Comandos y programas
+
+### Creación de un ambiente en Conda
+```
+$ conda create -n covid19 python=3
+$ conda activate covid19
+$ conda install -c conda-forge qgis
+```
